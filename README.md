@@ -7,13 +7,10 @@
  Exercícios do Mundo 1:
 
 
- ex01 - Meu primeiro "Hello, World!"
-
- ex04 - Dissecando uma variável.
-
- ex05 - Antecesso e sucessor.
-
- ex06 - Dobro, triplo e raiz quadrada.
+ -ex01 - Meu primeiro "Hello, World!"
+ -ex04 - Dissecando uma variável.
+ -ex05 - Antecesso e sucessor.
+ -ex06 - Dobro, triplo e raiz quadrada.
 
  ex07 - Média aritmética.
 
@@ -54,5 +51,5 @@
  ex25 - Procurando uma string dentro da outra.
 
  ex26 - Primeira e última ocorrência de uma string.
- 
+
  ex27 - Primeiro e último nome de uma pessoa.
