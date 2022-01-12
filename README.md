@@ -8,11 +8,8 @@
 
 
  ex01 - Meu primeiro "Hello, World!"
-
  ex04 - Dissecando uma variável.
-
  ex05 - Antecesso e sucessor.
-
  ex06 - Dobro, triplo e raiz quadrada.
 
  ex07 - Média aritmética.
