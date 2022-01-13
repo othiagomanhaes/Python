@@ -32,3 +32,11 @@
  - ex25 - Procurando uma string dentro da outra.
  - ex26 - Primeira e última ocorrência de uma string.
  - ex27 - Primeiro e último nome de uma pessoa.
+ - ex28 - Jogo da adivinhação.
+ - ex29 - Radar eletrônico.
+ - ex30 - Par ou ímpar.
+ - ex31 - Custo da viagem.
+ - ex32 - Ano bissexto.
+ - ex33 - Maior e menor valores.
+ - ex34 - Aumentos múltiplos.
+ - ex35 - Analisando o triângulo.
