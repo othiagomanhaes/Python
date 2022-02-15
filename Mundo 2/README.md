@@ -22,3 +22,12 @@ Exercícios do Mundo 2:
  - ex054 - Grupo da maioridade.
  - ex055 - Maior e menor da sequência.
  - ex056 - Analisador completo.
+ - ex057 - Validação de dados.
+ - ex058 - Jogo de adivinhação Vs2.0.
+ - ex059 - Criando um menu de opções.
+ - ex060 - Cálculo do fatorial.
+ - ex061 - Progressão aritmética Vs2.0.
+ - ex062 - Super progressão aritmética Vs3.0.
+ - ex063 - Sequência de Fibonacci.
+ - ex064 - Tratando vários valores.
+ - ex065 - Maior e menor valores.

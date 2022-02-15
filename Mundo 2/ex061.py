@@ -1,16 +1,12 @@
-termo1 = int(input('Digite o primeiro termo: '))
-pa = int(input('Digite a razão da progressão aritmética: '))
+print('Gerador de PA')
+print('-='*10)
+primeiro = int(input('Primeiro termo: '))
+razao = int(input('Digite a razão: '))
+termo = primeiro
+cont = 1
 
-l = 0
-t = 0
-
-s = termo1 + pa
-x = termo1 + pa * 11
-
-while x != s:
-    t = s + pa
-    l = t
-    s = l
-    l = 0
-    print(s - pa * 2, end=' ')
-
+while cont <= 10:
+    print(f'{termo} » ', end='')
+    termo += razao
+    cont += 1
+print('FIM')
