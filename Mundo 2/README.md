@@ -31,3 +31,9 @@ Exercícios do Mundo 2:
  - ex063 - Sequência de Fibonacci.
  - ex064 - Tratando vários valores.
  - ex065 - Maior e menor valores.
+ - ex066 - Vários números com flag.
+ - ex067 - Tabuada v.3.0.
+ - ex068 - Jogo de par ou ímpar.
+ - ex069 - Análise de dados do grupo.
+ - ex070 - Estatísticas de grupo.
+ - ex071 - Simulador de caixa eletrônico.
