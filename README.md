@@ -6,7 +6,7 @@
  
 - Exercícios do Mundo 1: Completo!
 - Exercícios do Mundo 2: Completo!
-- Exercícios do Mundo 3: Loading...
+- Exercícios do Mundo 3: Carregando...
 _______________________________________________________
 
 In these repository i'll show my improve at Python on Gustavo Guanabara 's course - Curso em Vídeo.
