@@ -1,0 +1,48 @@
+Exercícios do mundo 3:
+
+- ex072 - Número por extenso
+- ex073 - Tuplas com times de futebol
+- ex074 - Maior e menor valores em tupla
+- ex075 - Análise de dados em uma tupla
+- ex076 - Lista de preços com tupla
+- ex077 - Contando vogais em tupla
+- ex078 - Maior e menor valores na lista
+- ex079 - Valores únicos em uma lista
+- ex080 - Lista ordenada sem repetições
+- ex081 - Extraindo dados de uma lista
+- ex082 - Dividindo valores em várias listas
+- ex083 - Validando expressões matemáticas
+- ex084 - Lista composta e análise de dados
+- ex085 - Lista com pares e ímpares
+- ex086 - Matriz em Python
+- ex087 - Mais sobre matriz em python
+- ex088 - Palpites para mega sena
+- ex089 - Boletim com listas compostas
+- ex090 - Dicionário em python
+- ex091 - Jogos de Dados em Python
+- ex092 - Cadastro de trabalhador em python
+- ex093 - Cadastro de jogador de futebol
+- ex094 - Unindo dicionários e listas
+- ex095 - Aprimorando os dicionários
+- ex096 - Função que calcula área
+- ex097 - Um print especial
+- ex098 - Função de contador
+- ex099 - Função que descobre o maior
+- ex100 - Funções para sortear e somar
+- ex101 - Funções para votação
+- ex102 - Função para Fatorial
+- ex103 - Ficha do jogador
+- ex104 - Validando entrada de dados em python
+- ex105 - Analisando e gerando dicionários
+- ex106 - Interactive helping system in python
+- ex107 - Exercitando módulos em python
+- ex108 - Formatando moedas
+- ex109 - Formatando moedas (2)
+- ex110 - Reduzindo ainda mais seu programa
+- ex111 - Transformando módulos em pacotes
+- ex112 - Entrada de dados monetários
+- ex113 - Funções aprofundadas em python
+- ex114 - Site está acessível?
+- ex115a - Criando um menu
+- ex115b - Arquivos com python
+- ex115c - Finalizando o projeto
